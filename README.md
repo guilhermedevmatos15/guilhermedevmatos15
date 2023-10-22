@@ -18,9 +18,9 @@
 </p>
 
 <p align="left">
-  <a href="mailto:devguilhermeferreira@gmail.com" alt="Email">
+  <a href="mailto:devguilhermeferreira@gmail.com" alt="Email" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:devguilhermeferreira@gmail.com" /></a>
 
-  <a href="https://wa.me/37999819687" alt="WhatsApp">
+  <a href="https://wa.me/37999819687" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/37999819687"/></a>
 </p>
