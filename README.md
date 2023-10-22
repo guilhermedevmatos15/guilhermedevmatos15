@@ -3,7 +3,7 @@
 <h1 align="left">Olá, sou o Guilherme</h1>
 
 <p align="left"> 
-  Olá, sou o Guilherme Ferreira | <strong>Desenvolvimento Front-End</strong>.<br>
+  <strong>Desenvolvedor Front-End</strong>.<br>
   Hoje, estudo de casa conteúdos em busca da evolução na programação, e também preparatórios para o Enem!<br>
 </p>
 
