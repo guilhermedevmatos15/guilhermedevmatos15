@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML5, CSS3, JavaScript, Sass, React.
+  🦄 Linguagens: HTML5, CSS3, JavaScript, Sass, React, Typescript
 </p>
 
 <p align="left">
