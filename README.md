@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.pinimg.com/564x/bf/46/bc/bf46bc366013e4e1a36ab07737e00f42.jpg" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h1 align="left">Olá, sou o Guilherme</h1>
 
