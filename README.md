@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/60/74/0b/60740b41f361e40b2563a51126770b7f.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.pinimg.com/originals/99/29/84/992984253787d3d04d87065f880d73d9.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h1 align="left">Olá, sou o Guilherme</h1>
 
